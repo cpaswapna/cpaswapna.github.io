@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+node_modules/
+.claude/settings.local.json
+__pycache__/
+*.pyc
+.venv/
+
+# Personal source files - keep locally, do not publish
+assets/images/20240226_135050.jpg
+assets/docs/*.docx
+.secrets/
